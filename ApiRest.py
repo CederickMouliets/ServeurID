@@ -68,7 +68,7 @@ def bureau():
 
 if __name__ == "__main__":
     #l'appel de API REST est bloquant, on le lance dans un autre script
-    #app.run(host="192.168.43.37")
+    app.run(host="192.168.43.37")
     #app.run(host="10.60.160.97")
-    app.run(host="10.188.109.197")
+    #app.run(host="10.188.109.197")
  
